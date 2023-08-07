@@ -16,13 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AALabonya&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AALabonya)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AALabonya)  
-
-![Profile views](https://gpvc.arturio.dev/AALabonya)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
