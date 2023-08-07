@@ -2,7 +2,7 @@
 #### Web Developer
 <h3 align="start">A passionate frontend developer from Bangladesh</h3>
 An enthusiastic learner, a business graduate in Finance but a passionate Coder (programmer) by choice.  Dedicated front end web developer skilled in HTML/HTML5, CSS/CSS3/, JavaScript and Bootstrap. Besides I do work as Virtual Assistant for Communication, Data Entry, Data Research, Copy-Paste, B2B Lead Generation, LinkedIn Lead Generation, PDF to MS-Word/Excel and Social Media Management. Client satisfaction is my first priority. I always look forward to learn new things that boosts my skill as well as confidence. I am self motivated, hard worker and good listener, versatile and fit in solo or team. In past time I go for travelling and do listen music.
-
+<br>
 Skills: HTML/HTML5, CSS/CSS3/, JavaScript and Bootstrap, MS Office
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouri199&label=Profile%20views&color=0e75b6&style=flat" alt="mouri199" /> </p>
