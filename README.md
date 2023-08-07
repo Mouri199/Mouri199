@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQEnabWJGVJPMw/profile-displaybackgroundimage-shrink_350_1400/0/1690813045327?e=1697068800&v=beta&t=Z5INZVg04k_NUGfvTyhSUNKcTIeWjQla-M33j0TY23k)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQEnabWJGVJPMw/profile-displaybackgroundimage-shrink_350_1400/0/1690813045327?e=1697068800&v=beta&t=Z5INZVg04k_NUGfvTyhSUNKcTIeWjQla-M33j0TY23k)
 ### Hi there 👋, Shanjida Moury
 #### Web Developer
 <h3 align="start">A passionate frontend developer from Bangladesh</h3>
