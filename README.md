@@ -16,6 +16,24 @@
 <a href="https://instagram.com/https://www.instagram.com/mouri1999s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mouri1999s/" height="30" width="40" /></a>
 </p>
 
+## :computer: Technologies that I know
+
+<p align="left">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb,nodejs,react,tailwind,vite,vscode,express,firebase,github,git," />
+  </a>
+
+</p>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## :eyes: Current overview
+
 - 🔭 I’m currently practicing on **my own project**
 
 - 🌱 I’m currently learning **frameworke,Javascript**
@@ -26,20 +44,6 @@
 
 - 📫 How to reach me **mourichow206@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AALabonya)](https://github.com/anuraghazra/github-readme-stats)
-
-## :eyes: Current overview
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb,nodejs,react,tailwind,vite,vscode,express,firebase,github,git," />
-  </a>
-
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouri199&show_icons=true&locale=en&layout=compact" alt="mouri199" /></p>
 
