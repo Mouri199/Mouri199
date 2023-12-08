@@ -46,7 +46,10 @@
 
 - 📫 How to reach me **mourichow206@gmail.com**
 
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouri199&show_icons=true&locale=en&layout=compact" alt="mouri199" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouri199&show_icons=true&locale=en&layout=compact" alt="mouri199" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouri199&show_icons=true&locale=en" alt="mouri199" /></p>
+</div>
