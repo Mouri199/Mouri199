@@ -1,13 +1,14 @@
 ![Web Developer](https://github.com/Mouri199/mouri199/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-### Hi there 👋, Shanjida Moury
-#### Web Developer
-<h3 align="start">A passionate frontend developer from Bangladesh</h3>
+### Hey! I'm `Shanjida Moury`
+## MERN Stack Developer
 
-<br>
-Skills: HTML/HTML5, CSS/CSS3/, JavaScript and Bootstrap, MS Office
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouri199&label=Profile%20views&color=0e75b6&style=flat" alt="mouri199" /> </p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mouri199&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 - 🔭 I’m currently practicing on **my own project**
 
 - 🌱 I’m currently learning **frameworke,Javascript**
