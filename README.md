@@ -33,7 +33,9 @@
 
 
 ## :eyes: Current overview
-
+<div align="left">
+<a href="https://app.daily.dev/moury1999s"><img align="right" src="https://api.daily.dev/devcards/71996bce92d44571b026c238e8c09438.png?r=fjg" width="200" alt="Moury's Dev Card"/></a>
+</div>
 - 🔭 I’m currently practicing on **my own project**
 
 - 🌱 I’m currently learning **frameworke,Javascript**
