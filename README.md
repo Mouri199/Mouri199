@@ -62,7 +62,7 @@ alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,vite,vscode,express,firebase,github,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,vite" />
   </a>
 
 </p>
