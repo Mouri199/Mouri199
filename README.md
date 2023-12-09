@@ -9,6 +9,38 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mouri199&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
+## 🎆 Projects
+
+### 🧚 Beauty Products Website
+
+- **Description:** A beauty cosmetic website designed to help users find their favourite brand products. Users can read details all cosmetic brand products details.This site is connected with a secure database to keep all users data safe and secured.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication
+  - [Client Site](https://github.com/Mouri199/beauty-brand-shop) - [Server Site](https://github.com/Mouri199/brand-shop-server) - [Live Demo](https://entice-ff6e8.web.app)
+
+### 💒 Wedding Website
+
+- **Description:** A wedding website designed to help users find their favourite service.It also allows it’s protected users to add, update or delete any service they want.Experience in this is very user friendly, users can really enjoy their stay at this website
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Authentication: Firebase Authentication
+  - [Client Site](https://github.com/Mouri199/wedding-event)  - [Live Demo](https://entice-ff6e8.web.app)
+ 
+### 🚡 Traveligo Website
+
+- **Description:**User Friendly UI/UX.Real Time Data Loading.Light and Dark Mode Toggle Button.Awesome sweet alerts after various kinds of operations.Fully responsive User Interface for every kinds of device.Sign in with Google system is available.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication
+  - [Client Site](https://github.com/Mouri199/travilo-guide-client)  -[Server Site](https://github.com/Mouri199/travilo-guide-server) - [Live Demo](https://cut-change.surge.sh)
+ 
+    
+
 ## :mailbox: Reach me out
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shanjida-moury-ba1b44284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanjida-moury-ba1b44284/" height="30" width="40" /></a>
