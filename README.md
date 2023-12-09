@@ -1,6 +1,6 @@
 ![Web Developer](https://github.com/Mouri199/mouri199/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 ### Hey! I'm `Shanjida Moury`
-## MERN Stack Developer
+## Junior MERN Stack Developer
 
 
 
