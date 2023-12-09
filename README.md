@@ -45,8 +45,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shanjida-moury-ba1b44284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanjida-moury-ba1b44284/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mouri1999s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
-<a href="https://mourichow206@gmail.com" target="blank"><img align="center" src="https://github.com/Mouri199/mouri199/assets/138799900/aa867680-018d-4b8a-a2dd-e06cd4796eb4"
-alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
+
 </p>
 
 ## :computer: Technologies that I know
@@ -87,8 +86,6 @@ alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
   <a href="https://app.daily.dev/mouri199"><img align="right" src="https://api.daily.dev/devcards/67dac182b2eb475193767f600bb76c31.png?r=gr1" width="200" alt="Moury Chowdhury's Dev Card"/></a>
 </div>
 - 🔭 I’m currently practicing on **my own project**
-
-- 🌱 I’m currently learning **frameworke,Javascript**
 
 - 👯 I’m looking to collaborate on **github**
 
