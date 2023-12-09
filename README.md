@@ -80,4 +80,13 @@
 
 <br/>
 
+## 🌱 Currently Learning
+
+I'm currently expanding my knowledge and expertise in the following area:
+
+- **Next.js:** Exploring the world of server-side rendering and React framework.
+
+
+<span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
+
 
