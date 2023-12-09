@@ -85,6 +85,10 @@
 <div align="left">
   <a href="https://app.daily.dev/mouri199"><img align="right" src="https://api.daily.dev/devcards/67dac182b2eb475193767f600bb76c31.png?r=gr1" width="200" alt="Moury Chowdhury's Dev Card"/></a>
 </div>
+I'm currently expanding my knowledge and expertise in the following area:
+
+- **Next.js:** I'm currently learning Next.js. Exploring the world of server-side rendering and React framework.
+
 - 🔭 I’m currently practicing on **my own project**
 
 - 👯 I’m looking to collaborate on **github**
@@ -94,13 +98,6 @@
 - 📫 How to reach me **mourichow206@gmail.com**
 
 <br/>
-
-## 🌱 Currently Learning
-
-I'm currently expanding my knowledge and expertise in the following area:
-
-- **Next.js:** Exploring the world of server-side rendering and React framework.
-
 
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
 
