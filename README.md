@@ -45,8 +45,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shanjida-moury-ba1b44284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanjida-moury-ba1b44284/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mouri1999s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
-<a href="https://www.gmail.com/mourichow206@gmail.com" target="blank"><img align="center" src="https://github.com/Mouri199/mouri199/assets/138799900/aa867680-018d-4b8a-a2dd-e06cd4796eb4"
-" alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
+<a href="https://mourichow206@gmail.com" target="blank"><img align="center" src="https://github.com/Mouri199/mouri199/assets/138799900/aa867680-018d-4b8a-a2dd-e06cd4796eb4"
+alt="https://www.facebook.com/mouri1999s" height="30" width="40" /></a>
 </p>
 
 ## :computer: Technologies that I know
@@ -54,7 +54,23 @@
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb,nodejs,react,tailwind,vite,vscode,express,firebase,github,git," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb" />
+  </a>
+
+</p>
+<br/>
+<p align="left">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,vite,vscode,express,firebase,github,git," />
+  </a>
+
+</p>
+<br/>
+<p align="left">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,express,firebase,github,git," />
   </a>
 
 </p>
