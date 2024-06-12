@@ -30,8 +30,10 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
+<img src="https://github-readme-stats.vercel.app/api?username=mouri199&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=mouri199&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouri199&theme=react&hide_border=false"><br/>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mouri199&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouri199&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
